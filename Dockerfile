@@ -1,4 +1,4 @@
-FROM debian:7.10
+FROM debian:7.11
 MAINTAINER Yuya.Nishida. <yuya@j96.org>
 
 RUN \
