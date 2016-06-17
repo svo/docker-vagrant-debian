@@ -29,6 +29,9 @@ RUN \
   mkdir -p /var/run/sshd && \
   rm /usr/sbin/policy-rc.d && \
 
+  # "vagrant-cachier" friendly
+  rm /etc/apt/apt.conf.d/docker-clean && \
+
   # Cleanup
   apt-get clean && \
   rm -rf /var/lib/apt/lists/*
