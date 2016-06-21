@@ -6,7 +6,7 @@ This image is based on [official Debian image](https://hub.docker.com/_/debian/)
 
 # Supported tags and respective `Dockerfile` links
 
-* [`8.5`, `8`, `jessie`, `latest` *Dockerfile*](https://github.com/nishidayuya/docker-vagrant-debian/blob/8-jessie/Dockerfile)
+* [`8.5`, `8`, `jessie`, `latest` *Dockerfile*](https://github.com/nishidayuya/docker-vagrant-debian/blob/master/Dockerfile)
 * [`7.11`, `7`, `wheezy` *Dockerfile*](https://github.com/nishidayuya/docker-vagrant-debian/blob/7-wheezy/Dockerfile)
 
 Issues and pull-requests are available on [GitHub repository](https://github.com/nishidayuya/docker-vagrant-debian/).
