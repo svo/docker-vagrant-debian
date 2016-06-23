@@ -4,6 +4,8 @@ A Debian Docker image for Vagrant Docker provider.
 
 This image is based on [official Debian image](https://hub.docker.com/_/debian/) and includes minimum Vagrant box features.
 
+[![License X11](https://img.shields.io/badge/license-X11-brightgreen.svg)](https://raw.githubusercontent.com/nishidayuya/docker-vagrant-debian/master/LICENSE.txt)
+
 # Supported tags and respective `Dockerfile` links
 
 * [`8.5`, `8`, `jessie`, `latest` *Dockerfile*](https://github.com/nishidayuya/docker-vagrant-debian/blob/master/Dockerfile)
