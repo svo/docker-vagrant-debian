@@ -1,5 +1,5 @@
-FROM debian:8.9
-MAINTAINER Yuya.Nishida. <yuya@j96.org>
+FROM debian:stretch
+MAINTAINER Sean Van Osselaer <svo@qual.is>
 
 RUN \
   set -x && \
